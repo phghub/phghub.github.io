@@ -4,4 +4,5 @@ title:  "Image Upload Test"
 ---
 # Image Test
 
-!(/assets/testImage.JPG)
+... which is shown in the screenshot below:
+![My helpful screenshot](/assets/testImage.JPG)
